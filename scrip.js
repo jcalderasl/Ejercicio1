@@ -1,4 +1,4 @@
-let add = document.querySelector("#add");
+let add = document.querySelector("#add");//cury selector busque un objejto llamdo add y se lo ponga en la variables add
 let substract = document.querySelector("#substract");
 
 add.addEventListener("click", function(){
